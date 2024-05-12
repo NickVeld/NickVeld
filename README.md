@@ -2,7 +2,9 @@
 
 Python (a bit of C-like too) developer, data scientist, DevOps engineer. I have some research papers and code articles, like fixing repositories and answering question on the Stackoverflow.
 
+<!--
 [CV](https://raw.githubusercontent.com/NickVeld/cv/main/cv.pdf)
+-->
 
 <img src="https://komarev.com/ghpvc/?username=NickVeld&color=grey"
      alt="Visitor counter" height="0.5" align="right"
